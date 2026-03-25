@@ -52,5 +52,5 @@ android {
 }
 
 dependencies {
-    implementation 'ai.picovoice:android-voice-processor:1.0.2'
+    // android-voice-processor vendored into this package (VOICE_RECOGNITION audio source)
 }
